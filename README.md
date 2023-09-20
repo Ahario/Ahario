@@ -18,5 +18,12 @@
   <br>
 </div>
 
+## Previous
+| <a href="https://www.uottawa.ca/en"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/University_of_Ottawa_Logo.svg/1920px-University_of_Ottawa_Logo.svg.png" alt="unilogo" width="100px" height="100px"></a> | uo explanation here |
+|------|----------------|
 | <a href="https://42seoul.kr/seoul42/main/view"><img src="https://simpleicons.org/icons/42.svg" alt="42logo" width="100px" height="100px"></a> | 42 explanation here |
+<br>
+
+## Current
+| <a href="[https://42seoul.kr/seoul42/main/view](https://www.likelion.net/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/LIKELION_brandsymbol.png" alt="likelionlogo" width="100px" height="100px"></a> | Likelion explanation here |
 |------|----------------|

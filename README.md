@@ -5,6 +5,7 @@
   <br>
   <h1>Skills🏆</h1>
   <br>
+  <p>Languages and Platform</p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
@@ -14,17 +15,24 @@
   <img src="https://img.shields.io/badge/Swfit-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <br>
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)
-  <h1>Career🖥️</h1>
+  <p>Tools</p>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+  <br>
   <br>
 </div>
-
+  <h1>Career🖥️</h1>
+  <br>
 
 | <a href="https://www.uottawa.ca/en"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/University_of_Ottawa_Logo.svg/1920px-University_of_Ottawa_Logo.svg.png" alt="unilogo" width="100px" height="100px"></a> | Bachelor of Science Degree in Nursing  |
 |------|----------------|
 | <a href="https://42seoul.kr/seoul42/main/view"><img src="https://simpleicons.org/icons/42.svg" alt="42logo" width="100px" height="100px"></a> | C, C++, Vim. Basic CS and computer logics |
 | <a href="[https://42seoul.kr/seoul42/main/view](https://www.likelion.net/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/LIKELION_brandsymbol.png" alt="likelionlogo" width="100px" height="100px"></a> | Swift, UIkit and SwiftUI |
 
+## Others
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahario&layout=compact)
  
 
 <!-- Just in case

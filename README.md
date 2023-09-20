@@ -24,13 +24,13 @@
 | <a href="https://42seoul.kr/seoul42/main/view"><img src="https://simpleicons.org/icons/42.svg" alt="42logo" width="100px" height="100px"></a> | C, C++, Vim. Basic CS and computer logics |
 | <a href="[https://42seoul.kr/seoul42/main/view](https://www.likelion.net/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/LIKELION_brandsymbol.png" alt="likelionlogo" width="100px" height="100px"></a> | Swift, UIkit and SwiftUI |
 
+ 
+
+<!-- Just in case
 ## 취미👾
 * 게임
 * 음악, 영화 감상
 * 헬스🏋️‍♂️
- 
-
-<!-- Just in case
 https://github.com/Ahario/mygomoku
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario&theme=great-gatsby&show_icons=true)
 -->

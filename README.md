@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Swfit-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <br>
   <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)
   <h1>Career🖥️</h1>
   <br>
 </div>

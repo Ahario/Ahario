@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=80&descSize=30&FontAlign=40&descAlignY=70" />
-  <h1>iOS개발자를 꿈꾸는 멋사 3기생 여현서 입니다</h1>
+<!--   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=80&descSize=30&FontAlign=40&descAlignY=70" />
+  <h1>iOS개발자를 꿈꾸는 멋사 3기생 여현서 입니다</h1> -->
   <br>
   <br>
   <h1>Skills🏆</h1>

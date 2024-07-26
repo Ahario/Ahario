@@ -8,14 +8,19 @@
   <br>
   반갑습니다. iOS개발자 여현서입니다.
   <br>
-  <p>Languages and Platform</p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Swfit-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  <h1>Languages and Platform</h1>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <!-- C -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <!-- C++ -->
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <!-- Vim -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br> <!-- HTML -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- CSS -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <!-- Java -->
+  <img src="https://img.shields.io/badge/Swfit-F05138?style=for-the-badge&logo=swift&logoColor=white"> <!-- Swift -->
+  <!-- SwiftUI -->
+  <!-- UIKit -->
+  <!-- JavaScript -->
+  <!-- Markdown -->
+  
   <br>
   <br>
   <p>Tools</p>

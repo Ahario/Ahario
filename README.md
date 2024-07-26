@@ -21,18 +21,11 @@
   <br>
   <br>
 </div>
-  <h1>Career🖥️</h1>
-  <br>
 
-| <a href="https://www.uottawa.ca/en"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/University_of_Ottawa_Logo.svg/1920px-University_of_Ottawa_Logo.svg.png" alt="unilogo" width="100px" height="100px"></a> | Bachelor of Science Degree in Nursing  |
-|------|----------------|
-| <a href="https://42seoul.kr/seoul42/main/view"><img src="https://simpleicons.org/icons/42.svg" alt="42logo" width="100px" height="100px"></a> | C, C++, Vim. Basic CS and computer logics |
-| <a href="[https://42seoul.kr/seoul42/main/view](https://www.likelion.net/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/LIKELION_brandsymbol.png" alt="likelionlogo" width="100px" height="100px"></a> | Swift, UIkit and SwiftUI |
-
-## Others
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)<br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahario&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhario&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

@@ -1,9 +1,12 @@
-<div align="center">
+<div align="left">
 <!--   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=80&descSize=30&FontAlign=40&descAlignY=70" />
   <h1>iOS개발자를 꿈꾸는 멋사 3기생 여현서 입니다</h1> -->
+  <h1>👋Hello, Nice to see you</h1>
+  Welcome to my page.
   <br>
+  I'm Allan, iOS Developer from South Korea🇰🇷
   <br>
-  <h1>Skills🏆</h1>
+  반갑습니다. iOS개발자 여현서입니다.
   <br>
   <p>Languages and Platform</p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">

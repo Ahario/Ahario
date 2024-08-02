@@ -31,12 +31,38 @@
 </div>
 
 ---
+## 그 외 정보
+
+<details>
+  
+  <summary>백준</summary> 
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)
+  
+  </details>
+
+  <details>
+  
+  <summary>Most Used Languages</summary> 
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahario&layout=compact)
+  
+  </details>
+
+  <details>
+  
+  <summary>Giuhub Status</summary> 
+  
+  [![Ahario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </details>
+
+<!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)<br>
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahario&layout=compact) [![Ahario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhario&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+-->
 <!-- Just in case
 ## 취미👾
 * 게임

@@ -1,7 +1,7 @@
 <div align="left">
 <!--   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=80&descSize=30&FontAlign=40&descAlignY=70" />
   <h1>iOS개발자를 꿈꾸는 멋사 3기생 여현서 입니다</h1> -->
-  <h1>👋Hello, Nice to see you</h1>
+  <h2>👋Hello, Nice to see you</h2>
   Welcome to my page.
   <br>
   I'm Allan, iOS Developer from South Korea🇰🇷
@@ -10,8 +10,10 @@
   <br>
   <h2>iOS Developer Intership at NapID, Seould Fintech(2024.02 ~ 2024.06)</h2>
   <br>
-  * NapID is an security company that protects users from risks through login authentication.
+  * hello
+  <br>
   
+
   <h2>Languages and Platform</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <!-- C -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <!-- C++ -->
@@ -22,7 +24,9 @@
   <img src="https://img.shields.io/badge/Swfit-F05138?style=for-the-badge&logo=swift&logoColor=white"> <!-- Swift -->
 
   <h2>Education</h2>
-  
+
+  * hello
+  * how come
   <br>
   <br>
   <p>Tools</p>
@@ -58,7 +62,6 @@
   [![Ahario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario)](https://github.com/anuraghazra/github-readme-stats)
   
   </details>
-
 <!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahario&layout=compact) [![Ahario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario)](https://github.com/anuraghazra/github-readme-stats)

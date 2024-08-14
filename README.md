@@ -34,9 +34,9 @@
 
       <details>
   
-      <summary>백준</summary> 
+      <summary>Projects</summary> 
   
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)
+      
 
       </details> 
    
@@ -45,7 +45,14 @@
     * Learned C, C++, Vim, Virtual Machine, CS, Makefile, Github
     * Experinced Team Project, Code Peer Evaluation
     * 80Hours / Month Program
-    * Projects
+
+      <details>
+  
+      <summary>Projects</summary> 
+  
+      
+
+      </details> 
 
   * Ottawa University
     * Bachelor of Science in Nursing
@@ -72,7 +79,7 @@
 
   <details>
   
-  <summary>Giuhub Status</summary> 
+  <summary>Github Status</summary> 
   
   [![Ahario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahario)](https://github.com/anuraghazra/github-readme-stats)
   

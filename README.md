@@ -8,7 +8,11 @@
   <br>
   반갑습니다. iOS개발자 여현서입니다.
   <br>
-  <h1>Languages and Platform</h1>
+  <h2>iOS Developer Intership at NapID, Seould Fintech(2024.02 ~ 2024.06)</h2>
+  <br>
+  * NapID is an security company that protects users from risks through login authentication.
+  
+  <h2>Languages and Platform</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <!-- C -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <!-- C++ -->
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <!-- Vim -->
@@ -16,10 +20,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- CSS -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <!-- Java -->
   <img src="https://img.shields.io/badge/Swfit-F05138?style=for-the-badge&logo=swift&logoColor=white"> <!-- Swift -->
-  <!-- SwiftUI -->
-  <!-- UIKit -->
-  <!-- JavaScript -->
-  <!-- Markdown -->
+
+  <h2>Education</h2>
   
   <br>
   <br>

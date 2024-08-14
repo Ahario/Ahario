@@ -2,8 +2,6 @@
 <!--   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=80&descSize=30&FontAlign=40&descAlignY=70" />
   <h1>iOS개발자를 꿈꾸는 멋사 3기생 여현서 입니다</h1> -->
   <h2>👋Hello, Nice to see you</h2>
-  Welcome to my page
-  <br>
   I'm Allan, iOS Developer from South Korea🇰🇷
   <br>
   반갑습니다. iOS개발자 여현서입니다
@@ -33,7 +31,14 @@
     * Experienced Team Project, Pair Programming, Mentoring, Code Peer Evaluation
     * Participated in Hackathon and got 🥇1st Place.
     * 9 to 6 Education Program.
-    * Projects
+
+      <details>
+  
+      <summary>백준</summary> 
+  
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogo)](https://solved.ac/dogo/)
+
+      </details> 
    
   * 42Seoul [BootCamp](https://42seoul.kr/seoul42/main/view)
     * 2021-10 ~ 2023-01

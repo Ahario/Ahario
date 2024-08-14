@@ -18,7 +18,7 @@
     * [⚫️mygomoku](https://github.com/Ahario/mygomoku) - C++ based terminal gomoku game
     * [🐤10Duck](https://github.com/Ahario/10Duck) - SwiftUI based card scanner & collection album
 
-  * meticulously document, observe, review and feedback
+  * meticulously organize, observe, review and feedback
     * [📝Tistory](https://dusdasstwest.tistory.com/)
     * [🔥Issue Case](https://github.com/APP-iOS3rd/PJ3T2_Mymory/issues/156)
     * [🔥Review Case](https://github.com/APP-iOS3rd/PJ3T2_Mymory/pull/153)

@@ -16,7 +16,7 @@
 
   * enjoys side projects
     * [⚫️mygomoku](https://github.com/Ahario/mygomoku) - C++ based terminal gomoku game
-    * [🐤10Duck](https://github.com/Ahario/10Duck) - SwiftUI based card scanner & collection album
+    * [🐤10Duck](https://github.com/Ahario/10Duck) - SwiftUI based TCG scanner & collection album
 
   * meticulously organize, observe, review and feedback
     * [📝Tistory](https://dusdasstwest.tistory.com/)

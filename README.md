@@ -34,9 +34,15 @@
 
       <details>
   
-      <summary>Projects</summary> 
-  
-      
+      <summary>Projects</summary>
+      <br>
+      [🗺️Moah](https://github.com/APP-iOS3rd/PJ3T2_Mymory) - SwiftUI based memo app
+      <br>
+      <br>
+      [☂️WeatherPlaylist](https://github.com/APP-iOS3rd/PJ2T1_WeatherPlaylist) - SwiftUI based music playlist app based on user's local weather
+      <br>
+      <br>
+      [📖Menha](https://github.com/APP-iOS3rd/miniproject-menha) - UIKit based
 
       </details> 
    
@@ -49,8 +55,6 @@
       <details>
   
       <summary>Projects</summary> 
-  
-      
 
       </details> 
 

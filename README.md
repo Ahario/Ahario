@@ -62,6 +62,7 @@
     * Bachelor of Science in Nursing
 </div>
 
+<!--
 ---
 ## 그 외 정보
 

@@ -6,7 +6,7 @@
   <br>
   반갑습니다. iOS개발자 여현서입니다
   <br>
-  <h2>iOS Developer Intership at napID, Seoul Fintech(2024.02 ~ 2024.06)</h2>
+  <h2>iOS Developer Intership at napID, Seoul Fintech(2024.02 ~)</h2>
   
   * napID is an online security company that protects users from risks through login authentication
 
